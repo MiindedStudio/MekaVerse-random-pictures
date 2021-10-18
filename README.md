@@ -1,5 +1,5 @@
 # MekaVerse-random
-Script for the creation of metadatas and the randomization of images of MekaVerse
+Script for the creation of metadata and the randomization of images of MekaVerse
 
 ## Step to replay the random : 
 1. Create a folder : ``output``
@@ -11,4 +11,4 @@ Script for the creation of metadatas and the randomization of images of MekaVers
 ``Legendary_Meka_Tickets_1.png``, ``Legendary_Meka_Tickets_2.png``, ``Legendary_Meka_Tickets_3.png``, ``Legendary_Meka_Tickets_4.png``
 7. Run the python script ``python set_metadata.py``
 
-The ``generation.json`` file show you exactly the same result as on OpenSea (with missing metadatas for the Meka #5227)
+The ``generation.json`` file show you exactly the same result as on OpenSea (with missing metadata for the Meka #5227)
